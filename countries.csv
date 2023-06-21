@@ -1,6 +1,6 @@
-Rank,Country / Dependency,Total in km2 (mi2),Land in km2 (mi2),Water in km2 (mi2),% water,Notes
+Rank,Country / Dependency,Totalin km2 (mi2),Landin km2 (mi2),Waterin km2 (mi2),%water,Notes
 
- –,World,510,072,000 (196,940,000),148,940,000 (57,510,000),361,132,000 (139,434,000),70.8,
+ –,Earth,510,072,000 (196,940,000),148,940,000 (57,510,000),361,132,000 (139,434,000),70.8,
 1, Russia,17,098,246 (6,601,670),16,378,410 (6,323,740),719,836 (277,930),4.2,[Note 2]
  –,Antarctica,14,200,000 (5,500,000),14,200,000 (5,500,000),0 (0),0,[Note 3]
 2, Canada,9,984,670 (3,855,100),9,093,507 (3,511,023),891,163 (344,080),8.9,[Note 4]
@@ -107,7 +107,7 @@ Rank,Country / Dependency,Total in km2 (mi2),Land in km2 (mi2),Water in km2 (mi2
 97, Eritrea,125,000 (48,000),125,000 (48,000),0 (0),0,
 98, North Korea,120,540 (46,540),120,538 (46,540),2 (0.77),0,[Note 67]
 99, Malawi,118,484 (45,747),94,080 (36,320),24,404 (9,422),20.6,
-100, Benin,114,763 (44,310),114,305 (44,133),457.569 (176.668),0.4,[Note 68]
+100, Benin,114,763 (44,310),114,305 (44,133),458 (177),0.4,[Note 68]
 101, Honduras,112,492 (43,433),111,890 (43,200),200 (77),0.2,
 102, Liberia,111,369 (43,000),96,320 (37,190),15,049 (5,810),13.5,
 103, Bulgaria,111,002 (42,858),108,612 (41,935),2,390 (920),2.2,[Note 69]
@@ -172,96 +172,96 @@ Rank,Country / Dependency,Total in km2 (mi2),Land in km2 (mi2),Water in km2 (mi2
 158, Qatar,11,586 (4,473),11,586 (4,473),0 (0),0,
 159, Gambia,11,295 (4,361),10,000 (3,900),1,295 (500),11.5,[Note 85]
 160, Jamaica,10,991 (4,244),10,831 (4,182),160 (62),1.5,
- –, Kosovo,10,887 (4,203),,,,[Note 86]
-161, Lebanon,10,452 (4,036),10,230 (3,950),170 (66),1.6,[Note 87]
-162, Cyprus,9,251 (3,572),9,241 (3,568),10 (3.9),0.1,[Note 88]
- –, Puerto Rico (United States),9,104 (3,515),8,959 (3,459),145 (56),1.6,[Note 89]
- –, Abkhazia,8,660 (3,340),,,,[Note 90]
- –, French Southern Territories (France),7,747 (2,991),7,668 (2,961),79.8 (30.8),1.0,[Note 91]
-163, Palestine,6,220 (2,400),6,000 (2,300),220 (85),3.5,[Note 92]
+ –, Kosovo,10,887 (4,203),,,,
+161, Lebanon,10,452 (4,036),10,230 (3,950),170 (66),1.6,[Note 86]
+162, Cyprus,9,251 (3,572),9,241 (3,568),10 (3.9),0.1,[Note 87]
+ –, Puerto Rico (United States),9,104 (3,515),8,959 (3,459),145 (56),1.6,[Note 88]
+ –, Abkhazia,8,660 (3,340),,,,[Note 89]
+ –, French Southern Territories (France),7,747 (2,991),7,668 (2,961),79.8 (30.8),1.0,[Note 90]
+163, Palestine,6,220 (2,400),6,000 (2,300),220 (85),3.5,[Note 91]
 164, Brunei,5,765 (2,226),5,265 (2,033),500 (190),8.7,
 165, Trinidad and Tobago,5,130 (1,980),5,128 (1,980),0 (0),0,
  –, French Polynesia (France),4,167 (1,609),3,827 (1,478),340 (130),8.2,
- –, Transnistria,4,163 (1,607),,,,[Note 93]
+ –, Transnistria,4,163 (1,607),,,,[Note 92]
 166, Cape Verde,4,033 (1,557),4,033 (1,557),0 (0),0,
  –, South Georgia and the South Sandwich Islands (United Kingdom),3,903 (1,507),3,903 (1,507),0 (0),0,[Note 34]
- –, South Ossetia,3,900 (1,500),,,,[Note 94]
- –, Northern Cyprus,3,355 (1,295),,,,[Note 95]
- –, Artsakh,3,170 (1,220),3,170 (1,220),-,-,[Note 96]
+ –, South Ossetia,3,900 (1,500),,,,[Note 93]
+ –, Northern Cyprus,3,355 (1,295),,,,[Note 94]
+ –, Artsakh,3,170 (1,220),3,170 (1,220),-,-,[Note 95]
 167, Samoa,2,842 (1,097),2,821 (1,089),10 (3.9),0.4,
  –, Hong Kong (China),2,755 (1,064),1,106 (427),1,649 (637),59.9,[40]
-168, Luxembourg,2,586 (998),2,586 (998),0 (0),0,[Note 97]
+168, Luxembourg,2,586 (998),2,586 (998),0 (0),0,[Note 96]
  –, Bir Tawil (terra nullius),2,060 (800),2,060 (800),0 (0),0,
-169, Mauritius,2,040 (790),2,030 (780),10 (3.9),0.5,[Note 98]
-170, Comoros,1,862 (719),1,862 (719),0 (0),0,[Note 99]
- –, Åland (Finland),1,580 (610),,,,[Note 100]
- –, Faroe Islands (Denmark),1,399 (540),1,393 (538),negligible,negl.,[Note 101]
+169, Mauritius,2,040 (790),2,030 (780),10 (3.9),0.5,[Note 97]
+170, Comoros,1,862 (719),1,862 (719),0 (0),0,[Note 98]
+ –, Åland (Finland),1,580 (610),,,,[Note 99]
+ –, Faroe Islands (Denmark),1,399 (540),1,393 (538),negligible,negl.,[Note 100]
 171, São Tomé and Príncipe,964 (372),964 (372),0 (0),0,
- –, Turks and Caicos Islands (United Kingdom),948 (366),430 (170),0 (0),0,[Note 102]
-172, Kiribati,811 (313),811 (313),0 (0),0,[Note 103]
+ –, Turks and Caicos Islands (United Kingdom),948 (366),430 (170),0 (0),0,[Note 101]
+172, Kiribati,811 (313),811 (313),0 (0),0,[Note 102]
 173, Bahrain,786 (303),786 (303),0 (0),0,
 174, Dominica,751 (290),751 (290),0 (0),0,
 175, Tonga,747 (288),717 (277),30 (12),4.0,
 176, Singapore,728 (281),716 (276),10 (3.9),1.4,
 177, Micronesia,702 (271),702 (271),negligible,negl.,
-178, Saint Lucia,616 (238),606 (234),10 (3.9),1.6,[Note 104]
+178, Saint Lucia,616 (238),606 (234),10 (3.9),1.6,[Note 103]
  –, Isle of Man (British Crown Dependency),572 (221),572 (221),0 (0),0,
  –, Guam (United States),549 (212),544 (210),0 (0),0,
-179, Andorra,468 (181),468 (181),0 (0),0,[Note 105]
+179, Andorra,468 (181),468 (181),0 (0),0,[Note 104]
  –, Northern Mariana Islands (United States),464 (179),464 (179),0 (0),0,
 180, Palau,459 (177),459 (177),0 (0),0,
-181, Seychelles,452 (175),455 (176),0 (0),0,[Note 106]
+181, Seychelles,452 (175),455 (176),0 (0),0,[Note 105]
  –, Curaçao (Netherlands),444 (171),444 (171),0 (0),0,[Note 79]
 182, Antigua and Barbuda,442 (171),442 (171),0 (0),0,
-183, Barbados,430 (170),431 (166),0 (0),0,
+183, Barbados,431 (166),431 (166),0 (0),0,
  –, Heard Island and McDonald Islands (Australia),412 (159),412 (159),0 (0),0,[Note 34]
 184, Saint Vincent and the Grenadines,389 (150),389 (150),0 (0),0,
  –, Jan Mayen (Norway),377 (146),377 (146),0 (0),0,
  –, U.S. Virgin Islands (United States),347 (134),346 (134),negligible,negl.,
 185, Grenada,344 (133),344 (133),0 (0),0,
-186, Malta,316 (122),316 (122),0 (0),0,[Note 107]
- –, Saint Helena, Ascension and Tristan da Cunha (United Kingdom),308 (119),308 (119),0 (0),0,[Note 108]
-187, Maldives,300 (120),298 (115),0 (0),0,[Note 109]
+186, Malta,316 (122),316 (122),0 (0),0,[Note 106]
+ –, Saint Helena, Ascension and Tristan da Cunha (United Kingdom),308 (119),308 (119),0 (0),0,[Note 107]
+187, Maldives,300 (120),298 (115),0 (0),0,[Note 108]
  –, Bonaire (Netherlands),294 (114),294 (114),0 (0),0,[Note 79]
  –, Cayman Islands (United Kingdom),264 (102),264 (102),0 (0),0,
-188, Saint Kitts and Nevis,261 (101),261 (101),0 (0),0,[Note 110]
- –, Niue,260 (100),260 (100),0 (0),0,[Note 111]
- –, Akrotiri and Dhekelia (United Kingdom),254 (98),not determined,not determined,not det.,[Note 112]
+188, Saint Kitts and Nevis,261 (101),261 (101),0 (0),0,[Note 109]
+ –, Niue,260 (100),260 (100),0 (0),0,[Note 110]
+ –, Akrotiri and Dhekelia (United Kingdom),254 (98),not determined,not determined,not det.,[Note 111]
  –, Saint Pierre and Miquelon (France),242 (93),242 (93),0 (0),0,
- –, Cook Islands,236 (91),236 (91),0 (0),0,[Note 113]
+ –, Cook Islands,236 (91),236 (91),0 (0),0,[Note 112]
  –, American Samoa (United States),199 (77),199 (77),0 (0),0,
 189, Marshall Islands,181 (70),181 (70),0 (0),0,
  –, Aruba (Netherlands),180 (69),180 (69),0 (0),0,[Note 79]
  –, Easter Island (Chile),163 (63),163 (63),0 (0),0,
-190, Liechtenstein,160 (62),160 (62),0 (0),0,[Note 105]
+190, Liechtenstein,160 (62),160 (62),0 (0),0,[Note 104]
  –, British Virgin Islands (United Kingdom),151 (58),151 (58),0 (0),0,
  –, Wallis and Futuna (France),142 (55),142 (55),0 (0),0,
- –, Christmas Island (Australia),135 (52),135 (52),0 (0),0,[Note 114]
+ –, Christmas Island (Australia),135 (52),135 (52),0 (0),0,[Note 113]
  –, Jersey (British Crown Dependency),116 (45),116 (45),0 (0),0,
  –, Montserrat (United Kingdom),102 (39),102 (39),0 (0),0,
  –, Anguilla (United Kingdom),91 (35),91 (35),0 (0),0,
  –, Guernsey (British Crown Dependency),78 (30),78 (30),0 (0),0,
-191, San Marino,61 (24),61 (24),0 (0),0,[Note 105]
- –, British Indian Ocean Territory (United Kingdom),60 (23),60 (23),negligible,negl.,[Note 115]
+191, San Marino,61 (24),61 (24),0 (0),0,[Note 104]
+ –, British Indian Ocean Territory (United Kingdom),60 (23),60 (23),negligible,negl.,[Note 114]
  –, Saint Martin (France),54 (21),54.4 (21.0),negligible,negl.,[Note 34]
  –, Bermuda (United Kingdom),54 (21),54 (21),0 (0),0,
  –, Bouvet Island (Norway),49 (19),49 (19),0 (0),0,[Note 34]
- –, Pitcairn Islands (United Kingdom),47 (18),47 (18),0 (0),0,[Note 116]
+ –, Pitcairn Islands (United Kingdom),47 (18),47 (18),0 (0),0,[Note 115]
  –, Norfolk Island (Australia),36 (14),36 (14),0 (0),0,
  –, Sint Maarten (Netherlands),34 (13),34 (13),0 (0),0,[Note 79]
- –, Macao (China),31 (12),28 (11),0 (0),0,[Note 117]
-192, Tuvalu,26 (10),26 (10),0 (0),0,[Note 118]
-193, Nauru,21 (8.1),21 (8.1),0 (0),0,[Note 119]
+ –, Macao (China),31 (12),28 (11),0 (0),0,[Note 116]
+192, Tuvalu,26 (10),26 (10),0 (0),0,[Note 117]
+193, Nauru,21 (8.1),21 (8.1),0 (0),0,[Note 118]
  –, Saint Barthélemy (France),21 (8.1),not determined,not determined,not det.,[Note 34]
  –, Sint Eustatius (Netherlands),21 (8.1),not determined,not determined,not det.,[Note 79]
- –, United States Minor Outlying Islands,19 (7.3),19 (7.3),0 (0),0,[Note 120]
- –, Cocos (Keeling) Islands (Australia),14 (5.4),14 (5.4),0 (0),0,[Note 114]
+ –, United States Minor Outlying Islands,19 (7.3),19 (7.3),0 (0),0,[Note 119]
+ –, Cocos (Keeling) Islands (Australia),14 (5.4),14 (5.4),0 (0),0,[Note 113]
  –, Saba (Netherlands),13 (5.0),not determined,not determined,not det.,[Note 79]
  –, Tokelau (New Zealand),12 (4.6),12 (4.6),0 (0),0,
- –, Gibraltar (United Kingdom),6 (2.3),6.5 (2.5),0 (0),0,[Note 121]
+ –, Gibraltar (United Kingdom),7 (2.7),7 (2.7),0 (0),0,[Note 120]
  –, Clipperton Island (France),6 (2.3),2 (0.77),4 (1.5),66.7,
  –, Ashmore and Cartier Islands (Australia),5 (1.9),5 (1.9),0 (0),0,
  –, Spratly Islands (disputed),< 5 (< 1.9),< 5 (< 1.9),0 (0),0,
  –, Coral Sea Islands (Australia),< 3 (< 1.2),< 3 (< 1.2),0 (0),0,
-194, Monaco,2.02 (0.78),2.02 (0.78),0 (0),0,[Note 122]
-195, Vatican City,0.49 (0.19),0.49 (0.19),0 (0),0,[Note 123]
+194, Monaco,2.0 (0.77),2.0 (0.77),0 (0),0,[Note 121]
+195, Vatican City,0.49 (0.19),0.49 (0.19),0 (0),0,[Note 122]
